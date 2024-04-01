@@ -1,0 +1,255 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1 {
+    font-size: 4vw;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 0.9vw;
+    font-style: normal;
+    @font-face {
+        font-family: "Neutraface Text Book Alt";
+        src: url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.eot");
+        src: url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.svg#Neutraface Text Book Alt")format("svg");
+    }
+    padding-top: 8vw;
+    padding-bottom: 4vw;
+    text-align: center;
+}
+h2 {
+    @font-face {
+        font-family: "Neutraface Text Book Alt";
+        src: url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.eot");
+        src: url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.svg#Neutraface Text Book Alt")format("svg");
+    }
+    font-size: 4vw;
+    color: white;
+    font-weight: 350;
+    letter-spacing: 0.8vw;
+    text-align: center;
+    top: 50%;
+    bottom: 50%;
+}
+body {
+    background-color: black;
+}
+a:hover {
+    text-decoration: none;
+}
+.para-even {
+    font-size: 2.1vw;
+    color: white;
+    letter-spacing: 0.2vw;
+    font-family: 'Adobe Garamond Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    margin-left: 50%;
+    margin-right: 4vw;
+    text-align: center;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+.para-odd {
+    font-size: 2.1vw;
+    color: white;
+    letter-spacing: 0.2vw;
+    font-family: 'Adobe Garamond Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    margin-left: 4vw;
+    margin-right: 50%;
+    text-align: center;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+.para-source {
+    font-size: 2.1vw;
+    color: white;
+    letter-spacing: 0.2vw;
+    font-family: 'Adobe Garamond Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: left;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+.para-about {
+    font-size: 2.1vw;
+    color: white;
+    letter-spacing: 0.15vw;
+    font-family: 'Adobe Garamond Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    text-align: justify;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+#nav {
+    background-color:#A54F2A;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    width:100%
+}
+.navbutton {
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    font-family: 'Adobe Garamond Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Adobe Garamond Pro Regular'), url('fonts/AGaramondPro-Regular.woff') format('woff');
+    font-size: 2vw;
+    color: #BFB48F;
+    transition: all 0.5s;
+    text-align:center;
+}
+.navbutton:hover {
+    color: white;
+}
+#bar {
+    margin: auto;
+}
+#nav .downdrop-toggle {
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    font-family: 'Adobe Garamond Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Adobe Garamond Pro Regular'), url('fonts/AGaramondPro-Regular.woff') format('woff');
+    font-size: 2vw;
+    color: #BFB48F;
+    transition: all 0.5s;
+}
+#nav .downdrop-toggle:hover {
+    color: white;
+}
+#nav .dropdown-menu {
+    top: 1.8vw !important;
+    background-color: #A54F2A;
+    border: none;
+    border-radius: 0;
+}
+#nav .dropdown-item {
+    color:#BFB48F;
+    transition: all 0.5s;
+}
+#nav .dropdown-item:hover{
+    background-color:#A54F2A;
+    color: white;
+}
+.carousel-item {
+    height: 66vw;
+}
+.about-picture .carousel-item{
+    background-attachment: fixed;
+    background-position: 0px 6vw;
+    height: 200vh;
+}
+.about-picture {
+    height: 100%
+}
+#main-picture .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/main-picture/FraserBungalow_1.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(2) {
+    background-image: url("images/main-picture/JamaliKamali.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(3) {
+    background-image: url("images/main-picture/QilaRaiPithora.png");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(4) {
+    background-image: url("images/main-picture/residency.png");
+    background-size: 100%;
+}
+#caption {
+    position: absolute;
+    bottom: 46.5%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 1.8vw;
+}
+.topspace {
+    margin-top: 6vw;
+}
+.bgrotate {
+    background-attachment: fixed;
+    background-size: 190vw;
+    background-repeat: no-repeat;
+}
+.streetview {
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%; 
+}
+.sources {
+    background-color:#A54F2A;
+    margin-top: -2vw;
+}
+#about-format {
+    position: absolute;
+    left: 50%;
+    width:100%;
+    transform: translateX(-50%);
+    top: 0;
+    padding-top:4vw;
+    z-index: 1
+}
+#qilaraipithora .bgrotate:nth-child(1) {
+    background-image: url("images/qilaraipithora/Rotate1.png");
+}
+#qilaraipithora .bgrotate:nth-child(2) {
+    background-image: url("images/qilaraipithora/Rotate2.png");
+}
+#qilaraipithora-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/qilaraipithora/Map.JPG");
+    background-size: 100%;
+}
+#qilaraipithora-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/qilaraipithora/Ruins.JPG");
+    background-size: 100%;
+}
+#qilaraipithora-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/qilaraipithora/Wall1.JPG");
+    background-size: 100%;
+}
+#qilaraipithora-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/qilaraipithora/Wall2.JPG");
+    background-size: 100%;
+}
+#residency .bgrotate:nth-child(1) {
+    background-image: url("images/residency/Rotate.png");
+}
+#residency-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/residency/DSC_0343.JPG");
+    background-size: 100%;
+}
+#residency-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/residency/DSC_0348.JPG");
+    background-size: 100%;
+}
