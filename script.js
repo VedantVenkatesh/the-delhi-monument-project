@@ -1,5 +1,5 @@
 function home() {
-    window.location.replace("main.html");
+    window.location.replace("index.html");
 }
 function about() {
     window.location.replace("about.html");
