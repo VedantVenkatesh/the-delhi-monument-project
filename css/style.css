@@ -152,18 +152,26 @@ a:hover {
 #nav .dropdown-item {
     color:#BFB48F;
     transition: all 0.5s;
+    font-size: 1.25vw
 }
 #nav .dropdown-item:hover{
     background-color:#A54F2A;
     color: white;
 }
+@media (min-width: 1800px) {
+    .container {
+        max-width: 80vw !important;
+    }
+}
 .carousel-item {
     height: 66vw;
+    background-repeat: no-repeat;
 }
 .about-picture .carousel-item{
     background-attachment: fixed;
     background-position: 0px 6vw;
-    height: 200vh;
+    background-repeat: no-repeat;
+    height: 117.6vw;
 }
 .about-picture {
     height: 100%
