@@ -79,11 +79,12 @@ a:hover {
     font-family: 'Adobe Garamond Pro Regular';
     font-style: normal;
     font-weight: normal;
-    margin-left: 10vw;
-    margin-right: 10vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
     text-align: left;
     padding-top: 4vw;
     padding-bottom: 4vw;
+    word-wrap: break-word;
 }
 .para-about {
     font-size: 2.1vw;
@@ -204,7 +205,7 @@ a:hover {
 }
 .bgrotate {
     background-attachment: fixed;
-    background-size: 190vw;
+    background-size: auto 100vh;
     background-repeat: no-repeat;
 }
 .streetview {
@@ -259,5 +260,62 @@ a:hover {
 }
 #residency-slideshow .carousel-inner .carousel-item:nth-child(1) {
     background-image: url("images/residency/DSC_0348.JPG");
+    background-size: 100%;
+}
+#coronation .bgrotate:nth-child(1) {
+    background-image: url("images/coronation/Rotate.png");
+}
+#coronation-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/coronation/DSC_0324.JPG");
+    background-size: 100%;
+}
+#coronation-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/coronation/DSC_0325.JPG");
+    background-size: 100%;
+}
+#coronation-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/coronation/DSC_0327.JPG");
+    background-size: 100%;
+}
+#coronation-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/coronation/DSC_0329.JPG");
+    background-size: 100%;
+}
+#coronation-slideshow .carousel-inner .carousel-item:nth-child(5) {
+    background-image: url("images/coronation/DSC_0331.JPG");
+    background-size: 100%;
+}
+#coronation-slideshow .carousel-inner .carousel-item:nth-child(6) {
+    background-image: url("images/coronation/Delhi_Durbar_1911.jpg");
+    background-size: 100%;
+}
+#st-james .bgrotate:nth-child(1) {
+    background-image: url("images/st-james/Rotate.png");
+}
+#st-james-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/st-james/DSC_0342.JPG");
+    background-size: 100%;
+}
+#st-james-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/st-james/DSC_0337.JPG");
+    background-size: 100%;
+}
+#adhamkhan-tomb .bgrotate:nth-child(1) {
+    background-image: url("images/adhamkhan-tomb/Rotate.JPG.png");
+}
+#adhamkhan-tomb-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/adhamkhan-tomb/Arches.JPG");
+    background-size: 100%;
+}
+#adhamkhan-tomb-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/adhamkhan-tomb/TombV2.JPG");
+    background-size: 100%;
+}
+#adhamkhan-tomb-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/adhamkhan-tomb/Thumbnail.JPG");
+    background-size: 100%;
+}
+#adhamkhan-tomb-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/adhamkhan-tomb/Spire.JPG");
     background-size: 100%;
 }
