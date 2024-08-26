@@ -319,3 +319,469 @@ a:hover {
     background-image: url("images/adhamkhan-tomb/Spire.JPG");
     background-size: 100%;
 }
+#safdarjung-tomb .bgrotate:nth-child(1) {
+    background-image: url("images/safdarjungs-tomb/Rotate1.png");
+}
+#safdarjung-tomb .bgrotate:nth-child(2) {
+    background-image: url("images/safdarjungs-tomb/Rotate2.png");
+}
+#safdarjung-tomb-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/safdarjungs-tomb/asd.JPG");
+    background-size: 100%;
+}
+#safdarjung-tomb-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/safdarjungs-tomb/asj.JPG");
+    background-size: 100%;
+}
+#safdarjung-tomb-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/safdarjungs-tomb/ask.JPG");
+    background-size: 100%;
+}
+#safdarjung-tomb-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/safdarjungs-tomb/asm.JPG");
+    background-size: 100%;
+}
+#agrassen .bgrotate:nth-child(1) {
+    background-image: url("images/agrassens-stepwell/Rotate.png");
+}
+#agrassen-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/agrassens-stepwell/img1.JPG");
+    background-size: 100%;
+}
+#agrassen-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/agrassens-stepwell/img2.JPG");
+    background-size: 100%;
+}
+#agrassen-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/agrassens-stepwell/img4.JPG");
+    background-size: 100%;
+}
+#agrassen-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/agrassens-stepwell/img5.JPG");
+    background-size: 100%;
+}
+#agrassen-slideshow .carousel-inner .carousel-item:nth-child(5) {
+    background-image: url("images/agrassens-stepwell/img3.JPG");
+    background-size: 100%;
+}
+#begumpur .bgrotate:nth-child(1) {
+    background-image: url("images/begumpur-mosque/Rotate1.png");
+}
+#begumpur .bgrotate:nth-child(2) {
+    background-image: url("images/begumpur-mosque/Rotate2.png");
+}
+#begumpur-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/begumpur-mosque/DSC_0429.JPG");
+    background-size: 100%;
+}
+#begumpur-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/begumpur-mosque/DSC_0432.JPG");
+    background-size: 100%;
+}
+#begumpur-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/begumpur-mosque/DSC_0433.JPG");
+    background-size: 100%;
+}
+#begumpur-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/begumpur-mosque/DSC_0435.JPG");
+    background-size: 100%;
+}
+#begumpur-slideshow .carousel-inner .carousel-item:nth-child(5) {
+    background-image: url("images/begumpur-mosque/DSC_0439.JPG");
+    background-size: 100%;
+}
+#haus .bgrotate:nth-child(1) {
+    background-image: url("images/HAUZ-KHAZ-FORT/Rotate1.png");
+}
+#haus-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0456.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0441.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0442.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0447.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(5) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0449.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(6) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0451.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(7) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0452.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(8) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0453.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(9) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0454.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(10) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0455.JPG");
+    background-size: 100%;
+}
+#haus-slideshow  .carousel-inner .carousel-item:nth-child(11) {
+    background-image: url("images/HAUZ-KHAZ-FORT/DSC_0440.JPG");
+    background-size: 100%;
+}
+#satpula .bgrotate:nth-child(1) {
+    background-image: url("images/saptula/Rotate.png");
+    background-size: 110%;
+}
+#satpula-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/saptula/DSC_0458.JPG");
+    background-size: 100%;
+}
+#satpula-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/saptula/DSC_0459.JPG");
+    background-size: 100%;
+}
+#satpula-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images//saptula/DSC_0460.JPG");
+    background-size: 100%;
+}
+#tughlaqabad .bgrotate:nth-child(1) {
+    background-image: url("images/tough/Rotate1.png");
+}
+#tughlaqabad .bgrotate:nth-child(2) {
+    background-image: url("images/tough/Rotate2.png");
+}
+#tughlaqabad .bgrotate:nth-child(3) {
+    background-image: url("images/tough/Rotate3.png");
+}
+#tughlaqabad .bgrotate:nth-child(4) {
+    background-image: url("images/tough/Rotate5.png");
+}
+#tughlaqabad .bgrotate:nth-child(5) {
+    background-image: url("images/tough/Rotate6_Adilabad.png");
+}
+
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/tough/DSC_0467.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/tough/DSC_0469.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/tough/DSC_0474.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/tough/DSC_0480.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(5) {
+    background-image: url("images/tough/DSC_0481.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(6) {
+    background-image: url("images/tough/DSC_0482.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(7) {
+    background-image: url("images/tough/DSC_0483.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(8) {
+    background-image: url("images/tough/DSC_0485.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(9) {
+    background-image: url("images/tough/DSC_0494.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(10) {
+    background-image: url("images/tough/DSC_0497.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(11) {
+    background-image: url("images/tough/DSC_0500.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(12) {
+    background-image: url("images/tough/DSC_0502.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(13) {
+    background-image: url("images/tough/DSC_0509.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(14) {
+    background-image: url("images/tough/DSC_0512.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(15) {
+    background-image: url("images/tough/DSC_0513.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(16) {
+    background-image: url("images/tough/DSC_0527.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(17) {
+    background-image: url("images/tough/DSC_0528.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(18) {
+    background-image: url("images/tough/DSC_0530.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(19) {
+    background-image: url("images/tough/DSC_0543.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(20) {
+    background-image: url("images/tough/DSC_0531.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(21) {
+    background-image: url("images/tough/DSC_0532.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(22) {
+    background-image: url("images/tough/DSC_0539.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(23) {
+    background-image: url("images/tough/DSC_0540.JPG");
+    background-size: 100%;
+}
+#tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(24) {
+    background-image: url("images/tough/DSC_0541.JPG");
+    background-size: 100%;
+}
+/* #jamali .bgrotate:nth-child(1) {
+    background-image: url("images/jamali/Rotate.png");
+} */
+#jamali .bgrotate:nth-child(2) {
+    background-image: url('images/jamali/Rotate.png');
+}
+#jamali-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/jamali/Carving1.JPG");
+    background-size: 100%;
+}
+#jamali-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/jamali/Carving2.JPG");
+    background-size: 100%;
+}
+#jamali-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/jamali/Pillar.JPG");
+    background-size: 100%;
+}
+
+#pearl .bgrotate:nth-child(1) {
+    background-image: url("images/pearl-mosque/Rotate1.png");
+}
+#pearl-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/pearl-mosque/DSC_0353.JPG");
+    background-size: 100%;
+}
+#pearl-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/pearl-mosque/DSC_0356.JPG");
+    background-size: 100%;
+}
+#pearl-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/pearl-mosque/DSC_0356.JPG");
+    background-size: 100%;
+}
+#pearl-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/pearl-mosque/DSC_0359.JPG");
+    background-size: 100%;
+}
+#pearl-slideshow .carousel-inner .carousel-item:nth-child(5) {
+    background-image: url("images/pearl-mosque/DSC_0360.JPG");
+    background-size: 100%;
+}
+#pearl-slideshow .carousel-inner .carousel-item:nth-child(6) {
+    background-image: url("images/pearl-mosque/DSC_0361.JPG");
+    background-size: 100%;
+}
+#pearl-slideshow .carousel-inner .carousel-item:nth-child(7) {
+    background-image: url("images/pearl-mosque/DSC_0361.JPG");
+    background-size: 100%;
+}
+
+#pearl-slideshow .carousel-inner .carousel-item:nth-child(8) {
+    background-image: url("images/pearl-mosque/Interior\ 1.jpg");
+    background-size: 100%;
+}
+#pearl-slideshow .carousel-inner .carousel-item:nth-child(9) {
+    background-image: url("images/pearl-mosque/Interior\ 2_WikimediaCommons_Binnenkant\ van\ de\ Parelmoskee.jpg");
+    background-size: 100%;
+}
+
+#purana .bgrotate:nth-child(1) {
+    background-image: url("images/purana/Rotate1.png");
+}
+#purana .bgrotate:nth-child(2) {
+    background-image: url("images/purana/Rotate2.png");
+}
+#purana .bgrotate:nth-child(3) {
+    background-image: url("images/purana/Rotate3.png");
+    /* background-size: 100%; */
+
+}
+#purana-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/purana/DSC_0288.JPG");
+    background-size: 100%;
+}
+#purana-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/purana/DSC_0290.JPG");
+    background-size: 100%;
+}
+#purana-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/purana/DSC_0291.JPG");
+    background-size: 100%;
+}
+#purana-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/purana/DSC_0300.JPG");
+    background-size: 100%;
+}
+#purana-slideshow .carousel-inner .carousel-item:nth-child(5) {
+    background-image: url("images/purana/DSC_0305.JPG");
+    background-size: 100%;
+}
+#purana-slideshow .carousel-inner .carousel-item:nth-child(6) {
+    background-image: url("images/purana/DSC_0308.JPG");
+    background-size: 100%;
+}
+#purana-slideshow .carousel-inner .carousel-item:nth-child(7) {
+    background-image: url("images/purana/DSC_0309.JPG");
+    background-size: 100%;
+}
+#fraser .bgrotate:nth-child(1) {
+    background-image: url("images/fraser/DSC_0253.JPG");
+    background-size: 100%;
+}
+#fraser-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/fraser/Tykhana_1.JPG");
+    background-size: 100%;
+}
+#fraser-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/fraser/Tykhana_2.JPG");
+    background-size: 100%;
+}
+#fraser-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/fraser/DSC_0253.JPG");
+    background-size: 100%;
+}
+#iron .bgrotate:nth-child(1) {
+    /* background-image: url("images/iron-pillar/11429.jpg"); */
+    background-size: 100%;
+}
+#iron-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/iron-pillar/Screenshot\ 2024-08-26\ 154513.png");
+    background-size: 100%;
+}
+#iron-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/iron-pillar/Screenshot\ 2024-08-26\ 154709.png");
+    background-size: 100%;
+}
+/* #iron-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/iron-pillar/1872_photograph_of_the_Hindu_Iron_Pillar\,_from_the_Qutb_complex_west\,_colonnade_of_the_Quwwat-ul-Islam_Mosque_in_the_background.jpg");
+    background-size: 100%;
+}
+#iron-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/iron-pillar/Screenshot\ 2024-08-22\ 222918.png");
+    background-size: 100%;
+} */
+#shalimar .bgrotate:nth-child(1) {
+    /* background-image: url("images/iron-pillar/11429.jpg"); */
+    /* background-size: 100%; */
+}
+#shalimar-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/shalimar/Screenshot\ 2024-08-26\ 155620.png");
+    background-size: 100%;
+}
+#shalimar-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/shalimar/Screenshot\ 2024-08-26\ 155648.png");
+    background-size: 100%;
+}
+#shalimar-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/shalimar/Screenshot\ 2024-08-26\ 155635.png");
+    background-size: 100%;
+}
+#shalimar-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/shalimar/Screenshot\ 2024-08-26\ 155703.png");
+    background-size: 100%;
+}
+/* #shalimar-slideshow .carousel-inner .carousel-item:nth-child(5) {
+    background-image: url("images/shalimar/Sunset\ reflections\ at\ the\ Shalimar\ Gardens\ by\ Violeta\ Ivanova\ \(Lahore\,\ Pakistan\).jpeg");
+    background-size: 100%;
+} */
+#haveli .bgrotate:nth-child(1) {
+    /* background-image: url("images/iron-pillar/11429.jpg"); */
+    /* background-size: 100%; */
+}
+#haveli-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/haveli/haveli.png");
+    background-size: 100%;
+}
+#haveli-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/haveli/haveli2.png");
+    background-size: 100%;
+}
+#haveli-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/haveli/haveli3.png");
+    background-size: 100%;
+}
+#haveli-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/haveli/haveli4.png");
+    background-size: 100%;
+}
+#chun .bgrotate:nth-child(1) {
+    /* background-image: url("images/iron-pillar/11429.jpg"); */
+    /* background-size: 100%; */
+}
+#chun-slideshow .carousel-inner .carousel-item:nth-child(1) {
+    background-image: url("images/chunnammal/Screenshot\ 2024-08-26\ 154943.png");
+    background-size: 100%;
+}
+#chun-slideshow .carousel-inner .carousel-item:nth-child(2) {
+    background-image: url("images/chunnammal/Screenshot\ 2024-08-26\ 155000.png");
+    background-size: 100%;
+}
+/* #chun-slideshow .carousel-inner .carousel-item:nth-child(3) {
+    background-image: url("images/chunnammal/Screenshot\ 2024-08-23\ 183252.png");
+    background-size: 100%;
+}
+#chun-slideshow .carousel-inner .carousel-item:nth-child(4) {
+    background-image: url("images/chunnammal/Screenshot\ 2024-08-23\ 183333.png");
+    background-size: 100%;
+} */
+
+.font_new{
+    
+    /* font-size: 4vw; */
+    color: white;
+    font-weight: 700;
+    
+    font-style: normal;
+    @font-face {
+        font-family: "Neutraface Text Book Alt";
+        src: url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.eot");
+        src: url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/0a1c1ff783f602434d40487fc051b835.svg#Neutraface Text Book Alt")format("svg");
+    }
+    /* padding-top: 8vw; */
+    /* padding-bottom: 4vw; */
+    text-align: center;
+}
