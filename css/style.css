@@ -193,6 +193,58 @@ a:hover {
     background-image: url("images/main-picture/residency.png");
     background-size: 100%;
 }
+#main-picture .carousel-inner   .carousel-item:nth-child(5) {
+    background-image: url("images/main-picture/img2.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(6) {
+    background-image: url("images/main-picture/DSC_0429.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(7) {
+    background-image: url("images/main-picture/DSC_0452.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(8) {
+    background-image: url("images/main-picture/DSC_0459.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(9) {
+    background-image: url("images/main-picture//DSC_0474.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(10) {
+    background-image: url("images/main-picture/DSC_0353.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(11) {
+    background-image: url("images/main-picture/DSC_0300.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(12) {
+    background-image: url("images/main-picture/asj.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(13) {
+    background-image: url("images/main-picture/Thumbnail.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(14) {
+    background-image: url("images/main-picture/DSC_0325.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(15) {
+    background-image: url("images/main-picture/DSC_0337.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(16) {
+    background-image: url("images/main-picture/DSC_0459.JPG");
+    background-size: 100%;
+}
+#main-picture .carousel-inner   .carousel-item:nth-child(17) {
+    background-image: url("images/main-picture/img2.JPG");
+    background-size: 100%;
+}
 #caption {
     position: absolute;
     bottom: 46.5%;
@@ -685,7 +737,7 @@ a:hover {
     background-size: 100%;
 }
 #iron-slideshow .carousel-inner .carousel-item:nth-child(1) {
-    background-image: url("images/iron-pillar/Screenshot\ 2024-08-26\ 154513.png");
+    background-image: url("images/iron-pillar/Screenshot\ 2024-08-27\ 190917.png");
     background-size: 100%;
 }
 #iron-slideshow .carousel-inner .carousel-item:nth-child(2) {
