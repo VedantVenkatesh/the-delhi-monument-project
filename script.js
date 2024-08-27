@@ -4,6 +4,9 @@ function home() {
 function about() {
     window.location.replace("about.html");
 }
+function student() {
+    window.location.replace("student.html");
+}
 $(window).scroll(function() {
     let bgwidth = window.screen.width*1.2;
     let scrollPos = $(this).scrollTop();
