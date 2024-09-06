@@ -517,9 +517,7 @@ a:hover {
 #tughlaqabad .bgrotate:nth-child(4) {
     background-image: url("images/tough/Rotate5.png");
 }
-#tughlaqabad .bgrotate:nth-child(5) {
-    background-image: url("images/tough/Rotate6_Adilabad.png");
-}
+
 
 #tughlaqabad-slideshow .carousel-inner .carousel-item:nth-child(1) {
     background-image: url("images/tough/DSC_0467.JPG");
