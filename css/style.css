@@ -372,7 +372,7 @@ a:hover {
     background-size: 100%;
 }
 #safdarjung-tomb .bgrotate:nth-child(1) {
-    background-image: url("images/safdarjungs-tomb/Rotate1.png");
+    background-image: url("images/safdarjungs-tomb/r3.png");
 }
 #safdarjung-tomb .bgrotate:nth-child(2) {
     background-image: url("images/safdarjungs-tomb/Rotate2.png");
@@ -397,7 +397,7 @@ a:hover {
     background-image: url("images/agrassens-stepwell/Rotate.png");
 }
 #agrassen-slideshow .carousel-inner .carousel-item:nth-child(1) {
-    background-image: url("images/agrassens-stepwell/img1.JPG");
+    background-image: url("images/agrassens-stepwell/img3.JPG");
     background-size: 100%;
 }
 #agrassen-slideshow .carousel-inner .carousel-item:nth-child(2) {
@@ -412,10 +412,10 @@ a:hover {
     background-image: url("images/agrassens-stepwell/img5.JPG");
     background-size: 100%;
 }
-#agrassen-slideshow .carousel-inner .carousel-item:nth-child(5) {
+/* #agrassen-slideshow .carousel-inner .carousel-item:nth-child(5) {
     background-image: url("images/agrassens-stepwell/img3.JPG");
     background-size: 100%;
-}
+} */
 #begumpur .bgrotate:nth-child(1) {
     background-image: url("images/begumpur-mosque/Rotate1.png");
 }
@@ -718,7 +718,7 @@ a:hover {
     background-image: url("images/fraser/DSC_0253.JPG");
     background-size: 100%;
 }
-#fraser-slideshow .carousel-inner .carousel-item:nth-child(1) {
+/* #fraser-slideshow .carousel-inner .carousel-item:nth-child(1) {
     background-image: url("images/fraser/Tykhana_1.JPG");
     background-size: 100%;
 }
@@ -729,7 +729,7 @@ a:hover {
 #fraser-slideshow .carousel-inner .carousel-item:nth-child(3) {
     background-image: url("images/fraser/DSC_0253.JPG");
     background-size: 100%;
-}
+} */
 #iron .bgrotate:nth-child(1) {
     /* background-image: url("images/iron-pillar/11429.jpg"); */
     background-size: 100%;
